@@ -1,0 +1,27 @@
+{
+  "name": "breakout-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kausar-barkat/breakout-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kausar-barkat/breakout-game/issues"
+  },
+  "homepage": "https://github.com/kausar-barkat/breakout-game#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "rxjs": "^7.8.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
